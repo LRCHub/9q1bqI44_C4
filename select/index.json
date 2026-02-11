@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "自由への扉 (日本語歌)",
+  "base_artist": "Mari Okonogi",
+  "createdAt": "2026-02-11T09:09:27.227046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自由への扉 (日本語歌) - When Will My Life Begin (Japanese Version)",
+      "artist": "Mari Okonogi",
+      "has_synced": true,
+      "path": "select/01_自由への扉_(日本語歌)_-_When_Will_My_Life_Begin_(Japanese_Version)_Mari_Okonogi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自由への扉(日本語歌)",
+      "artist": "小此木麻里",
+      "has_synced": false,
+      "path": "select/pl_01_自由への扉(日本語歌)_小此木麻里.txt"
+    }
+  ]
+}
